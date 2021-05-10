@@ -1,0 +1,43 @@
+Mål:
+En AI som med hjälp av en bild kan identifiera vilket bilmodel.
+Preliminärt ska den identifiera om det är en Volvo V40 eller V90 genom en bild av framdelen.
+
+Problem:
+Saker tar mycket tid.
+
+Installera alla dependencies.
+	Fick upp skumma problem som "kan inte uppdatera PiP för att jag har en för gammal uppdatering.
+	Cv2 ville heller inte installer för cv2 "inte kunda hitta en uppdatering som matchade med dess egna krav"
+	Dess saker gick alltid att lösa hyfsat enkelt men tar massa tid...
+
+Hitta bilder och ladda ner en massa bilder.
+	Hade inte tid att träna eller ladda ner allt för många bilmodedeller, färg på bilen och även vilken del av bilen.
+	Behövde vara specifik med vilken bild jag laddade ner.
+	På alla bilder ska man definera vad som ska identiferas och konverteras till en massa vikter.
+
+OpenCV
+
+
+
+"Att göra detta projekt är nog inte så svårt. Heller inte att göra ett AI projekt på 10h. 
+Problemet blev att jag behövde använda stora delar av tiden för att lära mig OpenCV."
+
+Lärdom: 
+	Skulle valt ett projekt utifrån de kunskaper jag redan hade.
+	Lärt mig OpenCV nu.
+
+
+Problem:
+*Hitta bilder
+
+Ladda ner allt
+
+Saker jag lärt mig:
+
+Resultat:
+
+Laddat ner bilder och testat koden som fanns i GitHub.
+
+Saker som tog tid:
+Hitta och ladda ner en massa bilder.
+Förstå sig på 
